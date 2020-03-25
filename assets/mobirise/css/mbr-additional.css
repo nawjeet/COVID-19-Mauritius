@@ -711,13 +711,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rUaUp4UQuJ .navbar {
-  background: #efefef;
+  background: #000000;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rUaUp4UQuJ .navbar-dropdown.bg-color.transparent.opened {
-  background: #efefef;
+  background: #000000;
 }
 .cid-rUaUp4UQuJ a {
   font-style: normal;
@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rUaUp4UQuJ .dropdown .dropdown-menu {
-  background: #efefef;
+  background: #000000;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1115,7 +1115,7 @@ section.lazy-placeholder:after {
 }
 .cid-rUaUqPaOgJ {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rUaUqPaOgJ P {
@@ -1448,7 +1448,7 @@ section.lazy-placeholder:after {
 .cid-rUb1S2mWPy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 .cid-rUb1S2mWPy .row-links {
   width: 100%;
